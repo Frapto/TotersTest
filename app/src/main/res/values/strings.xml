@@ -1,0 +1,9 @@
+<resources>
+    <item name="chatroomId" type="id" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <item name="otherPersonName" type="id" />
+    <string name="chat_box_hint">Enter Message Here</string>
+    <string name="app_name">TotersTest</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_wait_database_is_initializing">Please Wait, Database is initializing...</string>
+</resources>

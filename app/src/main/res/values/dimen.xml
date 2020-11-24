@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_side">70dp</dimen>
+    <dimen name="extra_small_padding">5dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="medium_padding">10dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="last_message_max_width">220dp</dimen>
+</resources>
